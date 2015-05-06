@@ -1,1 +1,12 @@
-Name,Title,LocationMike Hunt,Scrum Master,MelbourneLou Skunt,Tester,MelbourneHo Lee Fuk,Developer,MelbourneBen Dover,Developer,MelbourneAnita Fuch,Developer,MelbourneBetty Drizler,Tester,MelbourneBuster Hyman,Developer,BrisbaneSeymour Snatch,Developer,SydneyClint Torus,Designer,MelbourneCox Ucker,Trainer,MelbourneJack Ulate,HR Manager,Melbourne
+Name,Job Title,Education,Years of Experience,FT/PT/C,Daily Rate,Availability,Notes
+Mike Hunt,Scrum Master,B. Software Engineering and Business,5,F,853.36,Entire Project,
+Lou Skunt,Tester,B. IT,3,F,320,Entire Project,
+Ho Lee Fuk,Developer,B Comp Sci,2,F,533.36,Entire Project,
+Ben Dover,Developer,VCE,9,F,533.36,Entire Project,
+Anita Fuch,Developer,Certificate III in Knitting,2,F,533.36,Entire Project,
+Betty Drizler,Tester,B. IT,7,C,320,Entire Project,
+Buster Hyman,Developer,Diploma of Education,11,F,533.36,Final 16 days of project,Located in Brisbane
+Seymour Snatch,Developer,MD OB/GYN,7,F,533.36,Final 16 days of project,Located in Sydney
+Clint Torus,Designer,M. Aeronautical Engineering,1,F,210,Entire Project,
+Cox Ucker,Trainer,BSc(Sports Science),0.5,C,533.36,Entire Project,
+Jack Ulate,HR Manager,MBA,27,F,210,Entire Project,
